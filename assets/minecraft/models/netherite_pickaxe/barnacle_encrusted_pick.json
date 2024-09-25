@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "netherite_pickaxe/barnacle_encrusted_pick"
+    }
+}

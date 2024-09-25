@@ -1,0 +1,50 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_shovel"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "netherite_shovel/blaze_digger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "netherite_shovel/creep_trowel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "netherite_shovel/ender_excavator"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "netherite_shovel/spawner_spade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "netherite_shovel/squid_scoop"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "netherite_shovel/flora_shovel"
+        },  
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "netherite_shovel/discord_nitro_shovel"
+        }          
+    ]
+}

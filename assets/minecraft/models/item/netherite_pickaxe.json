@@ -1,0 +1,92 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "netherite_pickaxe/barnacle_encrusted_pick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "netherite_pickaxe/blaze_smelter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "netherite_pickaxe/creeper_pick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "netherite_pickaxe/cutlass_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "netherite_pickaxe/dragon_scale"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "netherite_pickaxe/ender_miner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "netherite_pickaxe/pirate_captains_mattock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "netherite_pickaxe/skeleton_hand_pick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "netherite_pickaxe/skeleton_snipe_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "netherite_pickaxe/spider_silk_touch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "netherite_pickaxe/treasure_hunters_pick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "netherite_pickaxe/zombie_digger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "netherite_pickaxe/bud_breaker_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "netherite_pickaxe/discord_nitro_pickaxe"
+        }          
+    ]
+}

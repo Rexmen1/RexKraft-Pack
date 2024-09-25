@@ -1,0 +1,44 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "netherite_sword",
+            "prefix": "netherite_sword/"
+        },
+        {
+            "type": "directory",
+            "source": "netherite_axe",
+            "prefix": "netherite_axe/"
+        },   
+        {
+            "type": "directory",
+            "source": "netherite_shovel",
+            "prefix": "netherite_shovel/"
+        },   
+        {
+            "type": "directory",
+            "source": "netherite_pickaxe",
+            "prefix": "netherite_pickaxe/"
+        },           
+        {
+            "type": "directory",
+            "source": "netherite_hoe",
+            "prefix": "netherite_hoe/"
+        },                        
+        {
+            "type": "directory",
+            "source": "fishing_rod",
+            "prefix": "fishing_rod/"
+        },
+        {
+            "type": "directory",
+            "source": "emerald",
+            "prefix": "emerald/"
+        },
+        {
+            "type": "directory",
+            "source": "paper",
+            "prefix": "paper/"
+        }         
+    ]
+}
